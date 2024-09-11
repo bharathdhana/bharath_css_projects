@@ -1,0 +1,41 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+
+:root{
+    --white: #fff;
+    --red: #fc3e32;
+    --green: #007e39;
+    --flag-height: 150px;
+}
+
+.red{
+    background: var(--red);
+    /* height: 50%; */
+    width: var(--flag-height);
+    height: calc(var(--flag-height) / 2);
+}
+
+.green{
+    background: var(--green);
+    /* height: 50%; */
+    height: calc(var(--flag-height) / 2);
+}
+
+.white{
+    background: var(--white);
+    width: calc(var(--flag-height) / 2);
+}
+
+.flag-madagascar{
+    height: var(--flag-height);
+    /* width: calc(var(--flag-height) *3/2); */
+    width: calc(var(--flag-height) * 1.5);
+    /* background: white; */
+    margin: 2em auto;
+    display: flex;
+
+
+}

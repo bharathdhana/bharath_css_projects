@@ -1,0 +1,43 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --bg-word: #5134ff;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1:after{
+    content: "";
+    animation: swap 6s infinite;
+    background: var(--bg-word);
+    padding: 10px;
+    color: white;
+    border-radius: 4px;
+    margin-left: 4px;
+}
+
+@keyframes swap {
+    0%{
+        content: "Reading";
+    }
+    25%{
+        content: "Listening";
+    }
+    50%{
+        content: "Learning";
+    }
+    75%{
+        content: "Admiring";
+    }
+    100%{
+        content: "Cats";
+    }
+}
