@@ -1,4 +1,8 @@
-👋 Hi there! I'm Bharath Kumar J N 🌱 Learning: C++ | Python | Java | HTML | CSS | Javascript | SQL. Interested to learn frameworks and Figma Tools.
-🚀 Projects: I'm passionate about building websites and Attractive webpages.
-👯 I’m looking to collaborate on: WEB based projects and other designing techs.
-⚡ Fun fact: I'm a guy who learns something better than yesterday. and upon that also an LAZY AF.
+This Repository contains some source code that has Html and Css.
+Here are some Mini Projects that ive been working On.
+Learned, and had an idea about how to use these tags in the development of web pages.
+
+
+P.S.
+Check my Other Repositories to know more about the Programming languages that ive been working On.
+If you like my works just follow me on GitHub.. We'll catch up Later..
